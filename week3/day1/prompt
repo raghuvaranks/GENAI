@@ -1,0 +1,7 @@
+
+CONTEXT: Scan through the entire project for implementation of Java/Selenium and give step by step instructions to implement Python/Selenium support of test script generation
+
+INSTRUCTIONS:
+[MANDATORY] Read the entire project for implementation of Java/Selenium to generate test script
+And give overall project flow to implement Selenium/Python implementation
+[MANDATORY] Go step by step to implement test script generator using Selenium/Python
