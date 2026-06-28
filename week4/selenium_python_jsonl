@@ -1,0 +1,5 @@
+Steps Followed
+Generated Page Classes for LeafTaps application for 10 pages using AI extension for Python language
+Updated the html contents in the file for corresponding Pages
+Then using html - generated the JSONL file
+Attaching JSONL file for Selenium-Python dataset to train the model
