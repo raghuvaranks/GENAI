@@ -1,0 +1,4 @@
+1) Explore for diffrent cdns like google font ,bootstrap or captcha
+2) Explore and confirm whether we will be allowed to add attachments in the
+langflow chat interface or not. If yes, then explore for the cdn and how to add it in the langflow chat interface.
+3) Using VS code with copilot,Claude or any IDE with coding agent custom styling with html and css to create aLangflow chat interface. using the same flow_id and api_key as in implementation 1 to connect to the Langflow chat interface.
